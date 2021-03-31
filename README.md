@@ -2,4 +2,4 @@ Seasonal product recommendation
 
 Walmart Hackathon 
 
-This flutter app recommends products to users based on season and location of users.
+This flutter app recommends products to users based on season and weather conditions.
